@@ -3,11 +3,11 @@ CenSat Track Generated with [CenSat Annotation Workflow](https://github.com/kmig
 
 ### Annotation Bin Overview 
 
-Alpha-Satellites - Annotated with [Fedor Ryabov’s HumAS-HMMER](https://github.com/fedorrik/HumAS-HMMER_for_AnVIL) 
+Alpha-Satellites - Annotated with [Fedor Ryabov’s HumAS-HMMER](https://github.com/fedorrik/HumAS-HMMER_for_AnVIL) and simplified into the following bins:
 - Active alpha (active_hor) 
 - diverged HORS (dhor) 
 - monomeric HORs (mon)
-- mixed alpha (mixedAlpha)
+- mixed alpha (mixedAlpha) - alpha regions that can't be sorted into above categories 
 
 Human Satellites 2 and 3 - Annotated with [Nick Altemose’s HSAT2/3 script](https://github.com/altemose/chm13_hsat)
 	
