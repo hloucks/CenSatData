@@ -42,3 +42,9 @@ First draft primate censat annotations for *Pan troglodytes*, *Pan paniscus*, an
 Please document any issues you find in [this document](https://docs.google.com/spreadsheets/d/1UVqb11FiSKcm3jpo81KQGn1jd74TxLODyUpQr-bNBhk/edit?usp=sharing) 
 
 Note - Versions 0.1 may have some overlaps in some of the smaller satellite annotations, alpha satellite annotations should have all overlaps resolved. 
+
+### Censat v0.1 Release 5/22/24
+
+First draft primate censat annotations for *Pongo abellie* and *Pongo pygmaeus*
+
+These files are rough drafts - the annotations are incomplete especially in classical human satellites and acrocentric short arms. 
