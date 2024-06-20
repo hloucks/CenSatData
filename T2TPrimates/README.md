@@ -20,7 +20,8 @@ Please contact with questions at hloucks@ucsc.edu
 - "hsat1B - RepeatMasker HSATI annotation 
 - "gsat(gsattype)" - RepeatMasker GSat Annotations 
 - "HSat2" - Annotated with Nick Altemose' perl script [here](https://github.com/altemose/chm13_hsat)
-- "HSat3" - Annotated with Nick Altemose' perl script [here](https://github.com/altemose/chm13_hsat)
+- "HSat3" - Annotated with Nick Altemose' perl script [here](https://github.com/altemose/chm13_hsat) and Tandem Repeat Finder
+- "HSat2_3" - Classical human satellites that can't be resolved HSat2 or HSat3 with current annotations methods. 
 
 #### Composite Satellite Annotations 
 - "bSat(monomerTypes)" - RepeatMasker annotations, monomers include BSR, BSAT, LSAU
@@ -48,3 +49,10 @@ Note - Versions 0.1 may have some overlaps in some of the smaller satellite anno
 First draft primate censat annotations for *Pongo abellie* and *Pongo pygmaeus*
 
 These files are rough drafts - the annotations are incomplete especially in classical human satellites and acrocentric short arms. 
+
+## Censat v1.0 Release 6/20/24
+
+Centromeric satellite annotations version 1 for all T2T primates. HSat annotations have been improved using pentameric simple repeat annotations from Tandem Repeat Finder run via RepeatMasker.  
+The following species specific manual changes have been made:  
+- *Pan paniscus* the active arrays on the following contigs have been manually annotated based on visual inspection of CenpA localization and CDR: chr14_mat_hsa13, chr17_pat_hsa18, chr13_mat_hsa2b, chr13_pat_hsa2b, chr2_mat_hsa3, chr6_pat_hsa7, chr6_mat_hsa7
+- *Symphalangus syndactylus* Subterminal alpha satellite arrays were manually identified and marked as subTerm(SF4)
