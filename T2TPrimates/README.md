@@ -56,3 +56,13 @@ Centromeric satellite annotations version 1 for all T2T primates. HSat annotatio
 The following species specific manual changes have been made:  
 - *Pan paniscus* the active arrays on the following contigs have been manually annotated based on visual inspection of CenpA localization and CDR: chr14_mat_hsa13, chr17_pat_hsa18, chr13_mat_hsa2b, chr13_pat_hsa2b, chr2_mat_hsa3, chr6_pat_hsa7, chr6_mat_hsa7
 - *Symphalangus syndactylus* Subterminal alpha satellite arrays were manually identified and marked as subTerm(SF4)
+
+## Censat v1.2 7/1/24
+
+Updated the color palette to match what will go into the final publications. Fixed erroneous "ct" annotations between scaffolding N's and rDNA and classical satellite annotations. 
+
+Active alpha satellite arrays were curated to reflect CENPA location and CDR in the following contigs:
+- *Pan paniscus* chr14_mat_hsa13, chr17_pat_hsa18, chr13_mat_hsa2b, chr13_pat_hsa2b, chr2_mat_hsa3, chr6_pat_hsa2b, chr2_mat_hsa3, chr6_mat_hsa7, and chr23_pat_hsa22
+- *Pongo abellie* chr6_hap2_hsa7 and chr9_hap1_hsa11>
+- *Pongo pygmaeus* chr12_hap1_hsa2a and chr12_hap2_hsa2a
+- *Symphalangus syndactylus* Subterminal alpha satellite arrays were manually identified and marked as subTerm(SF4)
