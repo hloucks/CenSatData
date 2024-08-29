@@ -37,14 +37,14 @@ Please contact with questions at hloucks@ucsc.edu
 ![CT_definition](pics/ct_definition.png)
 
 
-### Censat v0.1 Release 5/6/24
+## Censat v0.1 Release 5/6/24
 
 First draft primate censat annotations for *Pan troglodytes*, *Pan paniscus*, and *Gorilla gorilla*
 Please document any issues you find in [this document](https://docs.google.com/spreadsheets/d/1UVqb11FiSKcm3jpo81KQGn1jd74TxLODyUpQr-bNBhk/edit?usp=sharing) 
 
 Note - Versions 0.1 may have some overlaps in some of the smaller satellite annotations, alpha satellite annotations should have all overlaps resolved. 
 
-### Censat v0.1 Release 5/22/24
+## Censat v0.1 Release 5/22/24
 
 First draft primate censat annotations for *Pongo abellie* and *Pongo pygmaeus*
 
@@ -62,7 +62,21 @@ The following species specific manual changes have been made:
 Updated the color palette to match what will go into the final publications. Fixed erroneous "ct" annotations between scaffolding N's and rDNA and classical satellite annotations. 
 
 Active alpha satellite arrays were curated to reflect CENPA location and CDR in the following contigs:
-- *Pan paniscus* chr14_mat_hsa13, chr17_pat_hsa18, chr13_mat_hsa2b, chr13_pat_hsa2b, chr2_mat_hsa3, chr6_pat_hsa2b, chr2_mat_hsa3, chr6_mat_hsa7, and chr23_pat_hsa22
+- *Pan paniscus* chr14_mat_hsa13, chr17_pat_hsa18, chr13_mat_hsa2b, chr13_pat_hsa2b, chr13_pat_hsa2b, chr2_mat_hsa3, chr2_mat_hsa3, chr6_mat_hsa7, and chr23_pat_hsa22
 - *Pongo abellie* chr6_hap2_hsa7 and chr9_hap1_hsa11
 - *Pongo pygmaeus* chr12_hap1_hsa2a and chr12_hap2_hsa2a
 - *Symphalangus syndactylus* Subterminal alpha satellite arrays were manually identified and marked as subTerm(SF4)
+
+
+# CenSat v2.0 8/29/24 
+
+Alterations to the handling of annotations within the "CenSat" bin to more completely cover complex and composite regions. Arrays now cover gaps caused by mobile element insertions smaller than 10kb. 
+
+Composite satellite element names truncated for shorter naming convention. For example COMP-subunit_TSPY_rnd-1_family-25 is truncated to TSPY_family-25
+
+Finalized manual active array annotations for the following 
+
+- *Pan paniscus* chr14_mat_hsa13, chr17_pat_hsa18, chr13_mat_hsa2b, chr13_pat_hsa2b, chr2_mat_hsa3, chr2_mat_hsa3, chr6_mat_hsa7, chr6_pat_hsa7, chr23_pat_hsa22
+chr23_mat_hsa22
+- *Pongo abellie* chr6_hap2_hsa7, chr9_hap1_hsa11, chr8_hap2_hsa10
+- *Pongo pygmaeus*  chr12_hap1_hsa2a and chr12_hap2_hsa2a
