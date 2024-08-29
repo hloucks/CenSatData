@@ -80,3 +80,4 @@ Finalized manual active array annotations for the following
 chr23_mat_hsa22
 - *Pongo abellie* chr6_hap2_hsa7, chr9_hap1_hsa11, chr8_hap2_hsa10
 - *Pongo pygmaeus*  chr12_hap1_hsa2a and chr12_hap2_hsa2a
+- *Symphalangus syndactylus* chrY_hap2
