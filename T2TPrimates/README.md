@@ -83,3 +83,14 @@ chr23_mat_hsa22
 - *Symphalangus syndactylus* chrY_hap2 
 
 ### Note - *Symphalangus syndactylus*  updated 9/3/24
+
+# CenSat update on patched assemblies for Primate CenSat paper April 18, 2025
+
+updated versions of the asms for patches asms, manually fixed the following active SF arrays:
+- *Pan paniscus* chr14_mat_hsa13, chr17_pat_hsa18, chr13_mat_hsa2b, chr13_pat_hsa2b, chr2_mat_hsa3, chr6_mat_hsa7, chr6_pat_hsa7, chr23_pat_hsa22
+- *Pongo abellie* chr6_hap2_hsa7, chr9_hap1_hsa11
+
+all annotations were created de novo on the new assembly versions except VNTRs which were lifted over. 
+
+## Active arrays are now labeled activeSF(SFX) to remove confusion about known vs inferred HORs - currently we don't know the extent of HOR structure for these arrays. 
+
